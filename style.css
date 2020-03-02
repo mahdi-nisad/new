@@ -1,0 +1,99 @@
+.name {
+    color: coral;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.half-width {
+    width: 40%;
+    margin-left: 5%;
+    padding: 2%;
+    float: left;
+}
+
+.half-width img {
+   width: 100%;
+   border:3px coral solid;
+   border-radius: 50%;
+}
+
+.tui {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 20px;
+    background-image: linear-gradient( 45deg, lightsalmon, tomato);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    float: right;
+}
+
+.bimg {
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.dream{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.link-2{
+    text-decoration: none;
+    font-size: 20px;
+    background-image: linear-gradient( 45deg, lightsalmon, tomato);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+section {
+    height: 500px;
+}
+
+.me {
+    font-style: bold;
+    color: coral;
+}
+.mahdi{
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+    height: 80%;
+
+
+}
+.experience{
+    background-image: url("images/exp-bg.png");
+    background-repeat:no-repeat;
+    background-position: left;
+}
+#nisad{
+    border-left: 8px solid ;
+    border-image: linear-gradient(180deg,tomato,green);
+    border-image-slice: 1;
+}
+#hasan{
+    border-left: 8px solid ;
+    border-image: linear-gradient(180deg,blue,green);
+    border-image-slice: 1;
+}
+footer{
+    font-size: 16px;
+    text-align: center;
+    
+}
+
+
+
+
